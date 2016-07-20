@@ -6,3 +6,6 @@ packages
 bin/
 obj/
 /PokemonGo/RocketAPI/Proto/google/protobuf
+PokemonGo/RocketAPI/Console/NathanProgram.cs
+PokemonGo/RocketAPI/NathanSettings.cs
+.vs/Pokemon Go Rocket API/v14/.suo
